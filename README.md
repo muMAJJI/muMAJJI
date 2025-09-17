@@ -9,7 +9,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - I’m a quantitative researcher passionate about portfolio optimization, trading, data science, and risk management.
-Right now, I’m working on building and refining my own trading strategies.
 - If you're into algorithmic trading and looking for a partner, reach out to me — let's build a solid team.
 
 
